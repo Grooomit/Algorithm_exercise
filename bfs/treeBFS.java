@@ -19,6 +19,7 @@ public class treeBFS {
         output = bfs(root);
         System.out.println(output); // --> ["1", "2", "3", "4", "5", "7", "6"]
     }
+
     public static ArrayList<String> bfs(tree node) {
         // TODO:
         // Queue 를 이용해서 깊이가 동일한 노드들을 순회
