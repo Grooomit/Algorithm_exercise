@@ -9,11 +9,13 @@
 
 | 난이도 |          링크          |      이름       |   분류    | 날짜  | 체크 |
 | :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
-| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20px" height="25px"></img> | [1085][1085] |   직사각형에서 탈출   |    수학    | 11/05 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20px" height="25px"></img> | [1085] |   직사각형에서 탈출   |    수학    | 11/05 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20px" height="25px"></img> | [2750] |   수 정렬하기   |    정렬    | 11/30 |  ✔   |
 
 <!-- new -->
 
 [1085]: https://www.acmicpc.net/problem/1085
+[2750]: https://www.acmicpc.net/problem/2750
 
 <!-- new-link -->
 
