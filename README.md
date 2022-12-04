@@ -13,6 +13,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20px" height="25px"></img> | [2750] |   수 정렬하기   |    정렬    | 11/30 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20px" height="25px"></img> | [2587] |   대표값 2   |    정렬    | 12/01 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20px" height="25px"></img> | [10870] |   피보나치 수 5   |    재귀    | 12/02 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20px" height="25px"></img> | [25305] |   커트라인   |    정렬    | 12/03 |  ✔   |
 
 <!-- new -->
 
@@ -20,6 +21,7 @@
 [2750]: https://www.acmicpc.net/problem/2750
 [2587]: https://www.acmicpc.net/problem/2587
 [10870]: https://www.acmicpc.net/problem/10870
+[25305]: https://www.acmicpc.net/problem/25305
 
 <!-- new-link -->
 
