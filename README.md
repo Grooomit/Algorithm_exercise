@@ -18,6 +18,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20px" height="25px"></img> | [25501] |   재귀의 귀재   |    재귀    | 12/07 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20px" height="25px"></img> | [24416] |   피보나치 수 1   |    DP    | 12/08 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [11726] |   2 x N 타일링   |    DP    | 12/09 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [9461] |   파도반 수열   |    DP    | 12/10 |  ✔   |
 
 
 <!-- new -->
@@ -31,6 +32,7 @@
 [25501]: https://www.acmicpc.net/problem/25501
 [24416]: https://www.acmicpc.net/problem/24416
 [11726]: https://www.acmicpc.net/problem/11726
+[9461]: https://www.acmicpc.net/problem/9461
 
 <!-- new-link -->
 
