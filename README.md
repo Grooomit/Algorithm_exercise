@@ -19,6 +19,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20px" height="25px"></img> | [24416] |   피보나치 수 1   |    DP    | 12/08 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [11726] |   2 x N 타일링   |    DP    | 12/09 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [9461] |   파도반 수열   |    DP    | 12/10 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [1926] |   그림   |    BFS    | 12/13 |  ✔   |
 
 
 <!-- new -->
@@ -33,6 +34,7 @@
 [24416]: https://www.acmicpc.net/problem/24416
 [11726]: https://www.acmicpc.net/problem/11726
 [9461]: https://www.acmicpc.net/problem/9461
+[1926]: https://www.acmicpc.net/problem/1926
 
 <!-- new-link -->
 
