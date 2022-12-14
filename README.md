@@ -20,6 +20,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [11726] |   2 x N 타일링   |    DP    | 12/09 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [9461] |   파도반 수열   |    DP    | 12/10 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [1926] |   그림   |    BFS    | 12/13 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [9184] |   신나는 함수 실행   |    DP    | 12/14 |  ✔   |
 
 
 <!-- new -->
@@ -35,6 +36,7 @@
 [11726]: https://www.acmicpc.net/problem/11726
 [9461]: https://www.acmicpc.net/problem/9461
 [1926]: https://www.acmicpc.net/problem/1926
+[9184]: https://www.acmicpc.net/problem/9184
 
 <!-- new-link -->
 
