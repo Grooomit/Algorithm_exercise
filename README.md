@@ -24,6 +24,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [2178] |   미로 탐색   |    BFS    | 12/15 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [2606] |   바이러스   |    BFS    | 12/15 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [2667] |   단지번호 붙이기   |    BFS    | 12/16 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [1260] |   DFS 와 BFS   |    BFS, DFS    | 12/16 |  ✔   |
 
 
 <!-- new -->
@@ -43,6 +44,7 @@
 [2178]: https://www.acmicpc.net/problem/2178
 [2606]: https://www.acmicpc.net/problem/2606
 [2667]: https://www.acmicpc.net/problem/2667
+[1260]: https://www.acmicpc.net/problem/1260
 
 <!-- new-link -->
 
