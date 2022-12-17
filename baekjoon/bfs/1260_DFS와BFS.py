@@ -23,7 +23,7 @@ def bfs(num):
     while q:
         x = q.popleft()
         bfs_list.append(x)
-
+  
         for j in graph[x]:
             if not visited[j]:
                 visited[j] = True

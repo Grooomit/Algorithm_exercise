@@ -25,6 +25,8 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [2606] |   바이러스   |    BFS    | 12/15 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [2667] |   단지번호 붙이기   |    BFS    | 12/16 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [1260] |   DFS 와 BFS   |    BFS, DFS    | 12/16 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [2667] |   단지번호 붙이기   |    DFS    | 12/17 |  ✔   |
+
 
 
 <!-- new -->
