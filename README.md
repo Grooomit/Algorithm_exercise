@@ -26,6 +26,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [2667] |   단지번호 붙이기   |    BFS    | 12/16 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [1260] |   DFS 와 BFS   |    BFS, DFS    | 12/16 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [2667] |   단지번호 붙이기   |    DFS    | 12/17 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [1012] |   유기농 배추   |    DFS    | 12/18 |  ✔   |
 
 
 
@@ -47,6 +48,7 @@
 [2606]: https://www.acmicpc.net/problem/2606
 [2667]: https://www.acmicpc.net/problem/2667
 [1260]: https://www.acmicpc.net/problem/1260
+[1012]: https://www.acmicpc.net/problem/1012
 
 <!-- new-link -->
 
