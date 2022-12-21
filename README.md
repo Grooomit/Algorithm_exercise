@@ -29,6 +29,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [1012] |   유기농 배추   |    DFS    | 12/18 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [15649] |   N과 M 1   |    백트래킹    | 12/19 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [15650] |   N과 M 2   |    백트래킹    | 12/20 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="20px" height="25px"></img> | [9663] |   N-Queen   |    백트래킹    | 12/21 |  ✔   |
 
 
 <!-- new -->
@@ -52,6 +53,8 @@
 [1012]: https://www.acmicpc.net/problem/1012
 [15649]: https://www.acmicpc.net/problem/15649
 [15650]: https://www.acmicpc.net/problem/15650
+[9663]: https://www.acmicpc.net/problem/9663
+
 
 <!-- new-link -->
 
