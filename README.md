@@ -32,6 +32,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="20px" height="25px"></img> | [9663] |   N-Queen   |    백트래킹    | 12/21 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [14888] |   연산자 끼워넣기   |    백트래킹    | 12/22 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [15651] |   N과 M 3   |    백트래킹    | 12/23 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [15652] |   N과 M 4   |    백트래킹    | 12/24 |  ✔   |
 
 
 <!-- new -->
@@ -58,6 +59,7 @@
 [9663]: https://www.acmicpc.net/problem/9663
 [14888]: https://www.acmicpc.net/problem/14888
 [15651]: https://www.acmicpc.net/problem/15651
+[15652]: https://www.acmicpc.net/problem/15652
 
 
 <!-- new-link -->
