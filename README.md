@@ -34,6 +34,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [15651] |   N과 M 3   |    백트래킹    | 12/23 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [15652] |   N과 M 4   |    백트래킹    | 12/24 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [14503] |   로봇청소기   |    시뮬레이션    | 12/25 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [1966] |   프린터 큐   |    시뮬레이션    | 12/26 |  ✔   |
 
 
 <!-- new -->
@@ -62,6 +63,7 @@
 [15651]: https://www.acmicpc.net/problem/15651
 [15652]: https://www.acmicpc.net/problem/15652
 [14503]: https://www.acmicpc.net/problem/14503
+[1966]: https://www.acmicpc.net/problem/1966
 
 
 <!-- new-link -->
