@@ -36,6 +36,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [14503] |   로봇청소기   |    시뮬레이션    | 12/25 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [1966] |   프린터 큐   |    시뮬레이션    | 12/26 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [3190] |   뱀   |    시뮬레이션    | 12/27 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="20px" height="25px"></img> | [16236] |   아기상어   |    시뮬레이션    | 12/28 |  ✔   |
 
 
 <!-- new -->
@@ -66,6 +67,7 @@
 [14503]: https://www.acmicpc.net/problem/14503
 [1966]: https://www.acmicpc.net/problem/1966
 [3190]: https://www.acmicpc.net/problem/3190
+[16236]: https://www.acmicpc.net/problem/16236
 
 
 
