@@ -37,6 +37,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [1966] |   프린터 큐   |    시뮬레이션    | 12/26 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [3190] |   뱀   |    시뮬레이션    | 12/27 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="20px" height="25px"></img> | [16236] |   아기상어   |    시뮬레이션    | 12/28 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20px" height="25px"></img> | [1920] |   수 찾기   |    이분탐색    | 12/29 |  ✔   |
 
 
 <!-- new -->
@@ -68,6 +69,7 @@
 [1966]: https://www.acmicpc.net/problem/1966
 [3190]: https://www.acmicpc.net/problem/3190
 [16236]: https://www.acmicpc.net/problem/16236
+[1920]: https://www.acmicpc.net/problem/1920
 
 
 
