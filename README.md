@@ -78,3 +78,24 @@
 </div>
 
 </details>
+
+<details markdown="1">
+<summary><strong>매일 한 문제씩<br>2023/01/01 ~ 2023/01/31</strong></summary>
+
+<br>
+
+<div align="center">
+
+| 난이도 |          링크          |      이름       |   분류    | 날짜  | 체크 |
+| :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20px" height="25px"></img> | [11399] |   ATM   |    그리디    | 01/01 |  ✔   |
+
+<!-- new -->
+
+[11399]: https://www.acmicpc.net/problem/11399
+
+<!-- new-link -->
+
+</div>
+
+</details>
