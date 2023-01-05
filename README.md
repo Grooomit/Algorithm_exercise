@@ -1,6 +1,6 @@
 # Algorithm_exercise
 
-<details open markdown="1">
+<details markdown="1">
 <summary><strong>매일 한 문제씩<br>2022/11/05 ~ 2022/12/31</strong></summary>
 
 <br>
@@ -79,7 +79,7 @@
 
 </details>
 
-<details markdown="1">
+<details open markdown="1">
 <summary><strong>매일 한 문제씩<br>2023/01/01 ~ 2023/01/31</strong></summary>
 
 <br>
@@ -90,11 +90,13 @@
 | :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20px" height="25px"></img> | [11399] |   ATM   |    그리디    | 01/01 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [1931] |   회의실 배정   |    그리디    | 01/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1026] |   보물   |    그리디    | 01/05 |  ✔   |
 
 <!-- new -->
 
 [11399]: https://www.acmicpc.net/problem/11399
 [1931]: https://www.acmicpc.net/problem/1931
+[1026]: https://www.acmicpc.net/problem/1026
 
 <!-- new-link -->
 
