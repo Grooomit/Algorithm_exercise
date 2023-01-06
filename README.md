@@ -1,5 +1,7 @@
 # Algorithm_exercise
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj5972)](https://solved.ac/profile/hsj5972)
+
 <details markdown="1">
 <summary><strong>매일 한 문제씩<br>2022/11/05 ~ 2022/12/31</strong></summary>
 
@@ -91,12 +93,15 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20px" height="25px"></img> | [11399] |   ATM   |    그리디    | 01/01 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [1931] |   회의실 배정   |    그리디    | 01/02 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1026] |   보물   |    그리디    | 01/05 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [1463] |   1로 만들기   |    DP    | 01/06 |  ✔   |
 
 <!-- new -->
 
 [11399]: https://www.acmicpc.net/problem/11399
 [1931]: https://www.acmicpc.net/problem/1931
 [1026]: https://www.acmicpc.net/problem/1026
+[1463]: https://www.acmicpc.net/problem/1463
+
 
 <!-- new-link -->
 
