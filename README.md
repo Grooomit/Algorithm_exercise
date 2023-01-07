@@ -94,6 +94,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [1931] |   회의실 배정   |    그리디    | 01/02 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1026] |   보물   |    그리디    | 01/05 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [1463] |   1로 만들기   |    DP    | 01/06 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [9095] |   1,2,3 더하기   |    DP    | 01/07 |  ✔   |
 
 <!-- new -->
 
@@ -101,6 +102,7 @@
 [1931]: https://www.acmicpc.net/problem/1931
 [1026]: https://www.acmicpc.net/problem/1026
 [1463]: https://www.acmicpc.net/problem/1463
+[9095]: https://www.acmicpc.net/problem/9095
 
 
 <!-- new-link -->
