@@ -96,6 +96,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [1463] |   1로 만들기   |    DP    | 01/06 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [9095] |   1,2,3 더하기   |    DP    | 01/07 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [1003] |   피보나치 함수   |    DP    | 01/09 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [1149] |   RGB 거리   |    DP    | 01/11 |  ✔   |
 
 <!-- new -->
 
@@ -105,6 +106,7 @@
 [1463]: https://www.acmicpc.net/problem/1463
 [9095]: https://www.acmicpc.net/problem/9095
 [1003]: https://www.acmicpc.net/problem/1003
+[1149]: https://www.acmicpc.net/problem/1149
 
 
 <!-- new-link -->
