@@ -81,7 +81,7 @@
 
 </details>
 
-<details open markdown="1">
+<details markdown="1">
 <summary><strong>매일 한 문제씩<br>2023/01/01 ~ 2023/01/31</strong></summary>
 
 <br>
@@ -110,6 +110,32 @@
 [1149]: https://www.acmicpc.net/problem/1149
 [2579]: https://www.acmicpc.net/problem/2579
 
+
+<!-- new-link -->
+
+</div>
+
+</details>
+
+</div>
+
+</details>
+
+<details open markdown="1">
+<summary><strong>매일 한 문제씩<br>2023/02/01 ~ 2023/02/28</strong></summary>
+
+<br>
+
+<div align="center">
+
+| 난이도 |          링크          |      이름       |   분류    | 날짜  | 체크 |
+| :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2293] |   동전1   |    DP    | 02/02 |  ✔   |
+
+
+<!-- new -->
+
+[2293]: https://www.acmicpc.net/problem/2293
 
 <!-- new-link -->
 

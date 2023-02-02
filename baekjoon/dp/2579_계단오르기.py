@@ -23,7 +23,6 @@ for i in range(N):
     step[i] = int(input())
 
 def step_score(n):
-    score = [0]*300
     score[0] = step[0]
     score[1] = step[0]+step[1]
     score[2] = max(step[0], step[1]) + step[2]
