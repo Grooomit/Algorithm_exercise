@@ -132,12 +132,14 @@
 | :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2293] |   동전1   |    DP    | 02/02 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [9084] |   동전   |    DP    | 02/03 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [2108] |   통계학   |    정렬    | 02/04 |  ✔   |
 
 
 <!-- new -->
 
 [2293]: https://www.acmicpc.net/problem/2293
 [9084]: https://www.acmicpc.net/problem/9084
+[2108]: https://www.acmicpc.net/problem/2108
 
 <!-- new-link -->
 
