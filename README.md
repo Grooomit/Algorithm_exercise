@@ -135,6 +135,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [2108] |   통계학   |    정렬    | 02/04 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [12865] |   평범한 배낭   |    DP    | 02/06 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [7576] |   토마토   |    BFS    | 02/07 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [1697] |   숨바꼭질   |    BFS    | 02/22 |  ✔   |
 
 
 <!-- new -->
@@ -144,6 +145,7 @@
 [2108]: https://www.acmicpc.net/problem/2108
 [12865]: https://www.acmicpc.net/problem/12865
 [7576]: https://www.acmicpc.net/problem/7576
+[1697]: https://www.acmicpc.net/problem/1697
 
 <!-- new-link -->
 
