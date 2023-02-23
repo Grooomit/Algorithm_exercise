@@ -136,6 +136,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [12865] |   평범한 배낭   |    DP    | 02/06 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [7576] |   토마토   |    BFS    | 02/07 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [1697] |   숨바꼭질   |    BFS    | 02/22 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [11724] |   연결요소의 개수   |    BFS    | 02/23 |  ✔   |
 
 
 <!-- new -->
@@ -146,6 +147,7 @@
 [12865]: https://www.acmicpc.net/problem/12865
 [7576]: https://www.acmicpc.net/problem/7576
 [1697]: https://www.acmicpc.net/problem/1697
+[11724]: https://www.acmicpc.net/problem/11724
 
 <!-- new-link -->
 
