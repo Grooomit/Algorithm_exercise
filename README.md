@@ -121,7 +121,7 @@
 
 </details>
 
-<details open markdown="1">
+<details markdown="1">
 <summary><strong>매일 한 문제씩<br>2023/02/01 ~ 2023/02/28</strong></summary>
 
 <br>
@@ -148,6 +148,29 @@
 [7576]: https://www.acmicpc.net/problem/7576
 [1697]: https://www.acmicpc.net/problem/1697
 [11724]: https://www.acmicpc.net/problem/11724
+
+<!-- new-link -->
+
+</div>
+
+</details>
+
+<details open markdown="1">
+<summary><strong>매일 한 문제씩<br>2023/03/01 ~ 2023/03/31</strong></summary>
+
+<br>
+
+<div align="center">
+
+| 난이도 |          링크          |      이름       |   분류    | 날짜  | 체크 |
+| :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [2468] |   안전 영역   |    BFS    | 03/03 |  ✔   |
+
+
+<!-- new -->
+
+[2468]: https://www.acmicpc.net/problem/2468
+
 
 <!-- new-link -->
 
