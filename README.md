@@ -165,11 +165,13 @@
 | 난이도 |          링크          |      이름       |   분류    | 날짜  | 체크 |
 | :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [2468] |   안전 영역   |    BFS    | 03/03 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="20px" height="25px"></img> | [14502] |   연구소   |    BFS    | 03/16 |  ✔   |
 
 
 <!-- new -->
 
 [2468]: https://www.acmicpc.net/problem/2468
+[14502]: https://www.acmicpc.net/problem/14502
 
 
 <!-- new-link -->
