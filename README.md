@@ -3,7 +3,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj5972)](https://solved.ac/profile/hsj5972)
 
 <details markdown="1">
-<summary><strong>매일 한 문제씩<br>2022/11/05 ~ 2022/12/31</strong></summary>
+<summary><strong>2022/11/05 ~ 2022/12/31</strong></summary>
 
 <br>
 
@@ -82,7 +82,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>매일 한 문제씩<br>2023/01/01 ~ 2023/01/31</strong></summary>
+<summary><strong>2023/01/01 ~ 2023/02/31</strong></summary>
 
 <br>
 
@@ -98,38 +98,6 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [1003] |   피보나치 함수   |    DP    | 01/09 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [1149] |   RGB 거리   |    DP    | 01/11 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [2579] |   계단 오르기   |    DP    | 01/12 |  ✔   |
-
-<!-- new -->
-
-[11399]: https://www.acmicpc.net/problem/11399
-[1931]: https://www.acmicpc.net/problem/1931
-[1026]: https://www.acmicpc.net/problem/1026
-[1463]: https://www.acmicpc.net/problem/1463
-[9095]: https://www.acmicpc.net/problem/9095
-[1003]: https://www.acmicpc.net/problem/1003
-[1149]: https://www.acmicpc.net/problem/1149
-[2579]: https://www.acmicpc.net/problem/2579
-
-
-<!-- new-link -->
-
-</div>
-
-</details>
-
-</div>
-
-</details>
-
-<details markdown="1">
-<summary><strong>매일 한 문제씩<br>2023/02/01 ~ 2023/02/28</strong></summary>
-
-<br>
-
-<div align="center">
-
-| 난이도 |          링크          |      이름       |   분류    | 날짜  | 체크 |
-| :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2293] |   동전1   |    DP    | 02/02 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [9084] |   동전   |    DP    | 02/03 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20px" height="25px"></img> | [2108] |   통계학   |    정렬    | 02/04 |  ✔   |
@@ -141,6 +109,14 @@
 
 <!-- new -->
 
+[11399]: https://www.acmicpc.net/problem/11399
+[1931]: https://www.acmicpc.net/problem/1931
+[1026]: https://www.acmicpc.net/problem/1026
+[1463]: https://www.acmicpc.net/problem/1463
+[9095]: https://www.acmicpc.net/problem/9095
+[1003]: https://www.acmicpc.net/problem/1003
+[1149]: https://www.acmicpc.net/problem/1149
+[2579]: https://www.acmicpc.net/problem/2579
 [2293]: https://www.acmicpc.net/problem/2293
 [9084]: https://www.acmicpc.net/problem/9084
 [2108]: https://www.acmicpc.net/problem/2108
@@ -155,8 +131,13 @@
 
 </details>
 
+</div>
+
+</details>
+
+
 <details open markdown="1">
-<summary><strong>매일 한 문제씩<br>2023/03/01 ~ 2023/03/31</strong></summary>
+<summary><strong>2023/03/01 ~ 2023/04/31</strong></summary>
 
 <br>
 
@@ -166,12 +147,14 @@
 | :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [2468] |   안전 영역   |    BFS    | 03/03 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="20px" height="25px"></img> | [14502] |   연구소   |    BFS    | 03/16 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [10026] |   적록색약   |    BFS    | 04/04 |  ✔   |
 
 
 <!-- new -->
 
 [2468]: https://www.acmicpc.net/problem/2468
 [14502]: https://www.acmicpc.net/problem/14502
+[10026]: https://www.acmicpc.net/problem/10026
 
 
 <!-- new-link -->
