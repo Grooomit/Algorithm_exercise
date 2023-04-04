@@ -20,7 +20,7 @@ import sys
 input = sys.stdin.readline
 
 N = int(input())
-image = (list(input().strip()) for i in range(N))
+image = [list(input().strip()) for i in range(N)]
 visited = [[False]* N for i in range(N)]
 rg_visited = [[False]* N for i in range(N)]
 
