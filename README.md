@@ -148,13 +148,14 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [2468] |   안전 영역   |    BFS    | 03/03 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="20px" height="25px"></img> | [14502] |   연구소   |    BFS    | 03/16 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [10026] |   적록색약   |    BFS    | 04/04 |  ✔   |
-
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [14889] |   스타트와 링크   |    백트래킹    | 04/18 |  ✔   |
 
 <!-- new -->
 
 [2468]: https://www.acmicpc.net/problem/2468
 [14502]: https://www.acmicpc.net/problem/14502
 [10026]: https://www.acmicpc.net/problem/10026
+[14889]: https://www.acmicpc.net/problem/14889
 
 
 <!-- new-link -->
