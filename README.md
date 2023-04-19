@@ -149,6 +149,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="20px" height="25px"></img> | [14502] |   연구소   |    BFS    | 03/16 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [10026] |   적록색약   |    BFS    | 04/04 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [14889] |   스타트와 링크   |    백트래킹    | 04/18 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [14889] |   치킨 배달   |    백트래킹    | 04/19 |  ✔   |
 
 <!-- new -->
 
