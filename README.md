@@ -150,6 +150,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [10026] |   적록색약   |    BFS    | 04/04 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [14889] |   스타트와 링크   |    백트래킹    | 04/18 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [14889] |   치킨 배달   |    백트래킹    | 04/19 |  ✔   |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [1182] |   부분수열의 합   |    백트래킹    | 04/21 |  ✔   |
 
 <!-- new -->
 
@@ -157,6 +158,7 @@
 [14502]: https://www.acmicpc.net/problem/14502
 [10026]: https://www.acmicpc.net/problem/10026
 [14889]: https://www.acmicpc.net/problem/14889
+[1182]: https://www.acmicpc.net/problem/1182
 
 
 <!-- new-link -->

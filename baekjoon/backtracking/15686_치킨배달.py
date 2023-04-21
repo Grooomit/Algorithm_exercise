@@ -50,7 +50,7 @@ def backtracking(chicken, num):
 def calScore(chickens):
     score = 0
     for house in houses:
-        length = 999
+        length = sys.maxsize
         house_x, house_y = house
 
         for chicken in chickens:
