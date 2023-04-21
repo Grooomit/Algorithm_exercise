@@ -18,21 +18,20 @@ input = sys.stdin.readline
 
 N, S = map(int, input().split())
 nums = list(map(int, input().split()))
-cnt = 0
 
-def backtracking(choose, chooseSum, num):
-    global cnt
-    if chooseSum == S and len(choose) > 0:
-        cnt += 1
+def backtracking(chooseSum, num):
+    ret = 0
+    if chooseSum == S and num > 0:
+        ret += 1
 
     for i in range(num, len(nums)):
-        choose.append(nums[i])
         chooseSum += nums[i]
-        backtracking(choose, chooseSum, i+1)
-        choose.pop()
+        ret += backtracking(chooseSum, i+1)
         chooseSum -= nums[i]
+    
+    return ret
 
-backtracking([], 0, 0)
+cnt = backtracking(0, 0)
 print(cnt)
 
 # 하나는 O(1) // not list[k]
