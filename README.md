@@ -42,9 +42,6 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20px" height="25px"></img> | [1920] |   수 찾기   |    이분탐색    | 12/29 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20px" height="25px"></img> | [11047] |   동전 0   |    그리디    | 12/31 |  ✔   |
 
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [1759][1759] | 암호 만들기 | backtracking | 04/22 |  ✔   |
-<!-- new -->
-
 [1085]: https://www.acmicpc.net/problem/1085
 [2750]: https://www.acmicpc.net/problem/2750
 [2587]: https://www.acmicpc.net/problem/2587
@@ -74,8 +71,6 @@
 [16236]: https://www.acmicpc.net/problem/16236
 [1920]: https://www.acmicpc.net/problem/1920
 [11047]: https://www.acmicpc.net/problem/11047
-[1759]: https://www.acmicpc.net/problem/1759
-<!-- new-link -->
 
 </div>
 
@@ -106,9 +101,6 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20px" height="25px"></img> | [1697] |   숨바꼭질   |    BFS    | 02/22 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [11724] |   연결요소의 개수   |    BFS    | 02/23 |  ✔   |
 
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [1759][1759] | 암호 만들기 | backtracking | 04/22 |  ✔   |
-<!-- new -->
-
 [11399]: https://www.acmicpc.net/problem/11399
 [1931]: https://www.acmicpc.net/problem/1931
 [1026]: https://www.acmicpc.net/problem/1026
@@ -124,8 +116,6 @@
 [7576]: https://www.acmicpc.net/problem/7576
 [1697]: https://www.acmicpc.net/problem/1697
 [11724]: https://www.acmicpc.net/problem/11724
-[1759]: https://www.acmicpc.net/problem/1759
-<!-- new-link -->
 
 </div>
 
@@ -159,7 +149,6 @@
 [10026]: https://www.acmicpc.net/problem/10026
 [14889]: https://www.acmicpc.net/problem/14889
 [1182]: https://www.acmicpc.net/problem/1182
-
 [1759]: https://www.acmicpc.net/problem/1759
 <!-- new-link -->
 
