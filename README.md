@@ -142,6 +142,7 @@
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20px" height="25px"></img> | [14889] |   치킨 배달   |    백트래킹    | 04/19 |  ✔   |
 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20px" height="25px"></img> | [1182] |   부분수열의 합   |    백트래킹    | 04/21 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [1759][1759] | 암호 만들기 | backtracking | 04/22 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [6603][6603] | 로또 | backtracking | 04/24 |  ✔   |
 <!-- new -->
 
 [2468]: https://www.acmicpc.net/problem/2468
@@ -150,6 +151,7 @@
 [14889]: https://www.acmicpc.net/problem/14889
 [1182]: https://www.acmicpc.net/problem/1182
 [1759]: https://www.acmicpc.net/problem/1759
+[6603]: https://www.acmicpc.net/problem/6603
 <!-- new-link -->
 
 </div>
