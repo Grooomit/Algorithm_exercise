@@ -145,6 +145,7 @@
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [6603][6603] | 로또 | backtracking | 04/24 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/21.svg" width="20px" height="25px"></img> | [18185][18185] | 라면 사기 (Small) | greedy | 04/25 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1541][1541] | 잃어버린 괄호 | greedy | 04/26 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1026][1026] | 보물 | greedy | 04/27 |  ✔   |
 <!-- new -->
 
 [2468]: https://www.acmicpc.net/problem/2468
@@ -156,6 +157,7 @@
 [6603]: https://www.acmicpc.net/problem/6603
 [18185]: https://www.acmicpc.net/problem/18185
 [1541]: https://www.acmicpc.net/problem/1541
+[1026]: https://www.acmicpc.net/problem/1026
 <!-- new-link -->
 
 </div>

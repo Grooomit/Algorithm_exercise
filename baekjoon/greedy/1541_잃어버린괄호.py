@@ -1,19 +1,14 @@
 import sys
 input = sys.stdin.readline
 
-num = input()
+nums = input().split('-')
 
-def solution(num):
-    result = 0
-    nums = num.split('-')
+def solution(nums):
+    result = sum(map(int, nums[0].split('+')))
 
-    for i in range(len(nums)):
-        i_num = [int(x) for x in nums[i].split('+')]
-        if i == 0:
-            result += sum(i_num)
-        else:
-            result -= sum(i_num)
+    for i in range(1, len(nums)):
+        result -= sum(map(int, nums[i].split('+')))
     
     return result
 
-print(solution(num))
+print(solution(nums))
