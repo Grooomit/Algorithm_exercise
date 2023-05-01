@@ -121,13 +121,9 @@
 
 </details>
 
-</div>
 
-</details>
-
-
-<details open markdown="1">
-<summary><strong>2023/03/01 ~ 2023/04/31</strong></summary>
+<details markdown="1">
+<summary><strong>2023/03/01 ~ 2023/04/30</strong></summary>
 
 <br>
 
@@ -148,7 +144,7 @@
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1026][1026] | 보물 | greedy | 04/27 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [5585][5585] | 거스름돈 | greedy | 04/28 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [2217][2217] | 로프 | greedy | 04/29 |  ✔   |
-<!-- new -->
+
 
 [2468]: https://www.acmicpc.net/problem/2468
 [14502]: https://www.acmicpc.net/problem/14502
@@ -162,6 +158,26 @@
 [1026]: https://www.acmicpc.net/problem/1026
 [5585]: https://www.acmicpc.net/problem/5585
 [2217]: https://www.acmicpc.net/problem/2217
+
+
+</div>
+
+</details>
+
+
+<details open markdown="1">
+<summary><strong>2023/05/01 ~ 2023/05/31</strong></summary>
+
+<br>
+
+<div align="center">
+
+| 난이도 |          링크          |      이름       |   분류    | 날짜  | 체크 |
+| :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1789][1789] | 수들의 합 | greedy | 05/01 |  ✔   |
+<!-- new -->
+
+[1789]: https://www.acmicpc.net/problem/1789
 <!-- new-link -->
 
 </div>
