@@ -166,7 +166,7 @@
 
 
 <details open markdown="1">
-<summary><strong>2023/05/01 ~ 2023/05/31</strong></summary>
+<summary><strong>2023/05/01 ~ 2023/07/31</strong></summary>
 
 <br>
 
@@ -175,9 +175,11 @@
 | 난이도 |          링크          |      이름       |   분류    | 날짜  | 체크 |
 | :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1789][1789] | 수들의 합 | greedy | 05/01 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [7568][7568] | 덩치 | bruteforcing | 07/06 |  ✔   |
 <!-- new -->
 
 [1789]: https://www.acmicpc.net/problem/1789
+[7568]: https://www.acmicpc.net/problem/7568
 <!-- new-link -->
 
 </div>
