@@ -176,10 +176,12 @@
 | :------------------------------------: | :----------: | :-------------: | :----------: | :---: | :---: |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1789][1789] | 수들의 합 | greedy | 05/01 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [7568][7568] | 덩치 | bruteforcing | 07/06 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11727][11727] | 2×n 타일링 2 | dp | 07/11 |  ✔   |
 <!-- new -->
 
 [1789]: https://www.acmicpc.net/problem/1789
 [7568]: https://www.acmicpc.net/problem/7568
+[11727]: https://www.acmicpc.net/problem/11727
 <!-- new-link -->
 
 </div>
