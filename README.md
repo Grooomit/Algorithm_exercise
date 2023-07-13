@@ -178,12 +178,14 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [7568][7568] | 덩치 | bruteforcing | 07/06 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11727][11727] | 2×n 타일링 2 | dp | 07/11 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [1107][1107] | 리모컨 | bruteforcing | 07/12 |  ✔   |
+| Lv. 2 | [프로그래머스][42839p] | 소수찾기 | 완전탐색 | 07/13 |  ✔   |
 <!-- new -->
 
 [1789]: https://www.acmicpc.net/problem/1789
 [7568]: https://www.acmicpc.net/problem/7568
 [11727]: https://www.acmicpc.net/problem/11727
 [1107]: https://www.acmicpc.net/problem/1107
+[42839p]: https://school.programmers.co.kr/learn/courses/30/lessons/42839
 <!-- new-link -->
 
 </div>
