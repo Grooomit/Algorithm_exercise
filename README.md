@@ -180,6 +180,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [1107][1107] | 리모컨 | bruteforcing | 07/12 |  ✔   |
 | Lv. 2 | [프로그래머스][42839p] | 소수찾기 | 완전탐색 | 07/13 |  ✔   |
 | Lv. 2 | [프로그래머스][42584p] | 주식가격 | 스택/큐 | 07/14 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2504][2504] | 괄호의 값 | data_structures | 07/16 |  ✔   |
 <!-- new -->
 
 [1789]: https://www.acmicpc.net/problem/1789
@@ -188,6 +189,7 @@
 [1107]: https://www.acmicpc.net/problem/1107
 [42839p]: https://school.programmers.co.kr/learn/courses/30/lessons/42839
 [42584p]: https://school.programmers.co.kr/learn/courses/30/lessons/42584
+[2504]: https://www.acmicpc.net/problem/2504
 <!-- new-link -->
 
 </div>
