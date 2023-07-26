@@ -184,6 +184,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1806][1806] | 부분합 | prefix_sum | 07/18 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14719][14719] | 빗물 | implementation | 07/19 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1062][1062] | 가르침 | backtracking | 07/20 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [1700][1700] | 멀티탭 스케줄링 | greedy | 07/26 |  ✔   |
 <!-- new -->
 
 [1789]: https://www.acmicpc.net/problem/1789
@@ -196,6 +197,7 @@
 [1806]: https://www.acmicpc.net/problem/1806
 [14719]: https://www.acmicpc.net/problem/14719
 [1062]: https://www.acmicpc.net/problem/1062
+[1700]: https://www.acmicpc.net/problem/1700
 <!-- new-link -->
 
 </div>
