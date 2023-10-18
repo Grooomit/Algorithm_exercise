@@ -187,6 +187,7 @@
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [1700][1700] | 멀티탭 스케줄링 | greedy | 07/26 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [10815][10815] | 숫자 카드 | binary_search | 10/01 |  ✔   |
 | Lv. 2 | [프로그래머스][87377p] | 교점에 별 만들기 | array | 10/16 |  ✔   |
+| Lv. 2 | [프로그래머스][77485p] | 행렬 테두리 회전하기 | array | 10/18 |  ✔   |
 <!-- new -->
 
 [1789]: https://www.acmicpc.net/problem/1789
@@ -202,6 +203,7 @@
 [1700]: https://www.acmicpc.net/problem/1700
 [10815]: https://www.acmicpc.net/problem/10815
 [87377p]: https://school.programmers.co.kr/learn/courses/30/lessons/87377
+[77485p]: https://school.programmers.co.kr/learn/courses/30/lessons/77485
 <!-- new-link -->
 
 </div>
