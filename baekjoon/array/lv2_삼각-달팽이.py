@@ -18,18 +18,13 @@
 def solution(n):
     answer = []
     arr = [[0]*i for i in range(1, n+1)]
+    dy, dx = (0, 1, -1), (1, 0, -1)
     y, x, z = 0, -1, 0
     num = 1
     for i in range(n, 0, -1):
-        for j in range(i):
-            if z%3 == 0:
-                x += 1
-            elif z%3 == 1:
-                y += 1
-            else:
-                x -= 1
-                y -= 1
-            
+        for _ in range(i):
+            x += dx[z%3]
+            y += dy[z%3]
             arr[x][y] = num
             num += 1
         z += 1
