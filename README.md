@@ -188,6 +188,7 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [10815][10815] | 숫자 카드 | binary_search | 10/01 |  ✔   |
 | Lv. 2 | [프로그래머스][87377p] | 교점에 별 만들기 | array | 10/16 |  ✔   |
 | Lv. 2 | [프로그래머스][77485p] | 행렬 테두리 회전하기 | array | 10/18 |  ✔   |
+| Lv. 2 | [프로그래머스][68645p] | 삼각 달팽이 | array | 12/19 |  ✔   |
 <!-- new -->
 
 [1789]: https://www.acmicpc.net/problem/1789
@@ -204,6 +205,7 @@
 [10815]: https://www.acmicpc.net/problem/10815
 [87377p]: https://school.programmers.co.kr/learn/courses/30/lessons/87377
 [77485p]: https://school.programmers.co.kr/learn/courses/30/lessons/77485
+[68645p]: https://school.programmers.co.kr/learn/courses/30/lessons/68645
 <!-- new-link -->
 
 </div>
